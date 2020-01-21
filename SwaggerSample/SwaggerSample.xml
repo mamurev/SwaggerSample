@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerSample</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerSample.Controllers.WeatherForecastController">
+            <summary>
+            WeatherForecastController description
+            </summary>
+        </member>
+        <member name="M:SwaggerSample.Controllers.WeatherForecastController.Get">
+            <summary>
+            This will appear on the swagger UI as a description 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
